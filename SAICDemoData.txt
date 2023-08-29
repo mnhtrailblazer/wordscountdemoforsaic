@@ -1,0 +1,2 @@
+This is demo data file for SAIC.
+This is used for unique word count java program demo for saic team.

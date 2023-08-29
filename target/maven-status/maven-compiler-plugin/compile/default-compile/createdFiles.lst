@@ -1,0 +1,4 @@
+com\saic\wordscountdemo\WordsCountFromFileWithoutUsingStreams.class
+com\saic\wordscountdemo\WordsCountDemoApplication.class
+com\saic\wordscountdemo\WordsCountFromAFile.class
+com\saic\wordscountdemo\WordsCountFromFileUsingStreams.class
